@@ -1,0 +1,8 @@
+name: contractPlugin
+version: 1.0.0
+main: EasyContract
+commands:
+  "수락":
+    description: "거래 수락 명령어"
+  "거절":
+    description: "거래 거절 명령어"
